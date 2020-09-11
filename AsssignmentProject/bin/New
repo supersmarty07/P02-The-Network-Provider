@@ -1,0 +1,33 @@
+Start 
+	Declaration
+	Number Calls
+	Number Sms
+	Number data
+	Number CallTime
+	Number Array size 3
+	Make method StraightLine()
+	Make method Message()
+	Make method Mainmenu()
+	Make method EnterUsageDetails()
+	Make method date()
+	
+	
+	Main Arguement
+			Call StraighLine()
+			Call Message()
+			Call date()
+			Call SraightLine()
+			Call Mainmenu()
+			
+			While(True){
+				Take Input
+				if (input is not one of the){
+				Validate input to be 1 to 6}
+				
+				else if(input is ){
+					While(true){
+					
+					}
+				}
+						
+			}
